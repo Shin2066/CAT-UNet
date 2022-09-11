@@ -7,8 +7,8 @@ CAT-UNet:Using CNN Attention Modules and TransUNet for Chest Lung Mass Segmentat
 # Usage
 **1. Download Google pre-trained ViT models**
 
-###### 2.Prepare data
+**2.Prepare data**
 
-###### 3.Environment
+**3.Environment**
 
-###### 4.Train/Test
+**4.Train/Test**
