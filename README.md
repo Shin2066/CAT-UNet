@@ -9,8 +9,8 @@ CAT-UNet:使用 CNN 注意力模組與 TransUNet 於胸部X光影像中肺腫瘤
 # Usage
 ### 1. Download Google pre-trained ViT models ### 
 
-**2.Prepare data**
+### 2.Prepare data ###
 
-**3.Environment**
+### 3.Environment ###
 
-**4.Train/Test**
+### 4.Train/Test ###
