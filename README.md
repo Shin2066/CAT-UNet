@@ -16,3 +16,4 @@ CAT-UNet:使用 CNN 注意力模組與 TransUNet 於胸部X光影像中肺腫瘤
 Please prepare an environment with python=3.6, and then use the command "pip install -r requirements.txt" for the dependencies.
 
 ### 4.Train/Test ###
+Run train.py & test.py
