@@ -13,6 +13,7 @@ CAT-UNet:使用 CNN 注意力模組與 TransUNet 於胸部X光影像中肺腫瘤
 
 
 ### 2.Prepare data ###
+
 <img width="202" alt="擷取7" src="https://user-images.githubusercontent.com/109962468/190899629-97fe130e-5913-4400-947b-02939004f29e.PNG">
 
             
