@@ -26,20 +26,14 @@ CAT-UNet:使用 CNN 注意力模組與 TransUNet 於胸部X光影像中肺腫瘤
 │           ├── R50+ViT-B_16.npz
 │           └── *.npz
 └── data
-    └──train
-        ├── images
-        │   ├── images0001.bmp
-        │   └── *.bmp
-        └── labels
-            ├── images0001.bmp
-            └── *.bmp
-     └──val
-        ├── images
-        │   ├── images0001.bmp
-        │   └── *.bmp
-        └── labels
-            ├── images0001.bmp
-            └── *.bmp
+    └──x-rays
+        ├── train
+        │   ├── images
+        │   └── labels
+        └── val
+            ├── images
+            └── labels
+
             
 ### 3.Environment ###
 Please prepare an environment with python=3.6, and then use the command "pip install -r requirements.txt" for the dependencies.
